@@ -159,7 +159,6 @@ def makespan(self,state):
 ```
 
 # Instancias
-Las dos ultimas instancias de este problema se encuentran en la carpeta data. 
 ## Instancia 1
 ## 11 Trabajos
 
